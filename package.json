@@ -1,10 +1,11 @@
 {
   "name": "spectrumuc",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Twitter bot and api for the UC Campus mood lighting project (SpectrumUC) by UC Student Developer Organisation",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sudouc/spectrumuc/issues"
   },
-  "homepage": "https://github.com/sudouc/spectrumuc#readme"
+  "homepage": "https://github.com/sudouc/spectrumuc#readme",
+  "dependencies": {
+    "color": "^0.11.3",
+    "express": "^4.14.0",
+    "twit": "^2.2.4"
+  }
 }

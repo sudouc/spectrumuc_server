@@ -1,0 +1,4 @@
+/node_modules/
+
+# ignore the private secrets
+oauth.json
