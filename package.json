@@ -1,0 +1,19 @@
+{
+  "name": "spectrumuc",
+  "version": "0.0.0",
+  "description": "Twitter bot and api for the UC Campus mood lighting project (SpectrumUC) by UC Student Developer Organisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudouc/spectrumuc.git"
+  },
+  "author": "sudouc, robodair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudouc/spectrumuc/issues"
+  },
+  "homepage": "https://github.com/sudouc/spectrumuc#readme"
+}
